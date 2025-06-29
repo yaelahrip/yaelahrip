@@ -1,11 +1,52 @@
-🔐 Interests: My primary focus lies in the realms of web security and reverse engineering, coupled with a deep passion for programming in various languages and frameworks including but not limited to PHP, Node.js, Python, VB6/.NET, C#, C/C++, and JavaScript. I am also captivated by the ever-evolving field of Machine Learning.
+# 👋 Hello, I'm Sudiyarno — aka `yaelahrip`
 
-📚 Continuous Learning: I am committed to broadening my expertise in Information Technology, immersing myself in the latest advancements, tools, and methodologies across a diverse array of domains.
+🎯 **Cybersecurity Enthusiast | Reverse Engineer | Polyglot Programmer**
 
-🤝 Collaboration: I am eager to contribute to and collaborate on projects that challenge the status quo, particularly those that push the boundaries of software engineering, cybersecurity, and emerging technologies.
+---
 
-📬 Reach Me: Should you wish to connect or collaborate, I am available at [me@sudiyarno.com].
+## 🔐 Interests
+
+I'm deeply immersed in the fields of **web security**, **reverse engineering**, and **software development**. My programming toolkit spans a wide range of languages and frameworks:
+
+- 🐘 PHP | 🟢 Node.js | 🐍 Python | 🔵 C# / VB.NET / VB6  
+- 💻 C / C++ | 💡 JavaScript | 🤖 Exploring Machine Learning
+
+I'm especially fascinated by low-level internals, protocol tampering, and crafting unconventional solutions that bypass security boundaries.
+
+---
+
+## 📚 Continuous Learning
+
+I believe in staying curious and continually expanding my knowledge in the tech world. I’m currently focused on:
+
+- 🌐 Advanced InfoSec & Web App Security  
+- 🧠 Machine Learning & AI integration  
+- ⚙️ Systems Programming, Automation, and Tooling  
+- 🧰 Reversing binaries, API internals, and obfuscation techniques  
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm always excited to collaborate on meaningful projects that:
+
+- 🧪 Push boundaries in cybersecurity or reverse engineering  
+- ⚡ Involve rapid prototyping, automation, or unconventional tools  
+- 📦 Tackle real-world problems with elegant technical solutions  
+
+If you have a cool idea or a security-focused side project — let’s connect!
+
+---
+
+## 📬 Contact
+
+💌 **Email:** [me@sudiyarno.com](mailto:me@sudiyarno.com)  
+🌍 **Website:** [https://sudiyarno.com](https://sudiyarno.com)  
+🐙 **GitHub:** [@yaelahrip](https://github.com/yaelahrip)
+
+---
+
 <!---
-yaelahrip/yaelahrip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+yaelahrip/yaelahrip is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+Click the Preview link to see how it looks.
 --->
