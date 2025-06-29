@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sudiyarno — aka `yaelahrip`
+# 👋 Hello, I'm `yaelahrip`
 
 🎯 **Cybersecurity Enthusiast | Reverse Engineer | Polyglot Programmer**
 
