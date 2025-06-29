@@ -15,14 +15,39 @@ I'm especially fascinated by low-level internals, protocol tampering, and crafti
 
 ---
 
-## 📚 Continuous Learning
+📚 Continuous Learning — I Eat Everything in IT 🍽️💻
 
-I believe in staying curious and continually expanding my knowledge in the tech world. I’m currently focused on:
+As a fast learner with a generalist brain, I thrive in rapid exploration and deep dives across the full spectrum of Information Technology. I don’t just “learn” — I absorb, dissect, and experiment with everything from low-level exploits to high-level AI.
 
-- 🌐 Advanced InfoSec & Web App Security  
-- 🧠 Machine Learning & AI integration  
-- ⚙️ Systems Programming, Automation, and Tooling  
-- 🧰 Reversing binaries, API internals, and obfuscation techniques  
+Here’s what currently fuels my intellectual appetite:
+🌐 Advanced InfoSec & Web App Security
+
+    🔎 Web exploitation, bug bounty hunting, bypassing WAFs/CDNs
+    🧩 OWASP Top 10 mastery and beyond (Business Logic Bugs, SSRF, CSRF chaining)
+    🔒 Session hijacking, insecure deserialization, advanced XSS payloads
+    🌍 Recon automation (subdomain brute force, DNS history, certificate transparency)
+    🔍 Fingerprinting technologies and bypassing obfuscation mechanisms
+
+🧠 Machine Learning & AI Integration
+
+    🤖 Prompt engineering, generative AI (OpenAI, Claude, Gemini), and applied NLP
+    🔍 ML-powered security tools: anomaly detection, phishing classifiers, captcha breakers
+    🧬 Fine-tuning models for niche tasks like code review or malware classification
+    🔁 Automating AI pipelines in real-world systems (chatbots, auto-pentesters, etc.)
+
+⚙️ Systems Programming, Automation & Tooling
+
+    🛠 Building custom tools in C/C++ for performance or evasion
+    🐚 Scripting automation in Bash, Python, and Node.js to replace repetitive workflows
+    📊 Creating dashboards, schedulers, CLI tools, and native Windows services
+    🔄 API reverse engineering and protocol fuzzing (especially undocumented ones)
+
+🧰 Reverse Engineering, Internals & Obfuscation
+
+    🔍 Inspecting malware, binaries, and obfuscated code (PE, ELF, APK, JavaScript)
+    🔧 Hooking functions, dynamic analysis, debugging with IDA/OllyDbg/x64dbg
+    🛡 Patching logic gates, license checkers, and anti-debugging tricks
+    🔙 Understanding undocumented behavior in APIs, SDKs, firmware
 
 ---
 
